@@ -18,5 +18,5 @@ Finalizado
 <br>
 • CSS
 
-<h4>🧑‍🦱 Autora</h4>
+<h4>💁 Autora</h4>
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/41305417?v=4" width=115><br><sub>Juliana Guimarães de Farias</sub
